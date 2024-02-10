@@ -2,7 +2,7 @@
 
 ## Motivação
 
-Auxiliar na configuração de um ambiente de desenvolvimento para as aplicações *Linux Native* utilizando *WSL, Docker, Windows Terminal, VSCode*.
+Auxiliar na configuração de um ambiente de desenvolvimento para as aplicações *Linux Native* utilizando *WSL, Docker, Windows Terminal, VSCode* no SO Windows.
 
 ## Instalador de Aplicativos (winget)
 
@@ -81,3 +81,8 @@ Depois de reiniciado, abra novamente o Windows Terminal e selecione a aba corres
 <br/>
 
 ## Docker Desktop
+
+O Docker é uma plataforma de software livre que permite aos desenvolvedores desenvolver, implementar, executar, atualizar e gerenciar componentes de contêineres executáveis e padronizados que combinam o código-fonte de aplicativos com as bibliotecas e estruturas do sistema operacional (S.O.) necessárias para executar o código em qualquer ambiente.
+
+[Clique aqui para instalar o docker desktop no Windows](https://docs.docker.com/desktop/install/windows-install/)
+
