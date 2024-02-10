@@ -55,6 +55,8 @@ wsl --list --online
 
 A saída do comando será:
 
+<br/>
+
 <div align="center">
     <img src="./img/wslList.png" width="870" height="550"
          alt="WSL List">
@@ -67,6 +69,8 @@ A saída do comando será:
 Após instalação é necessário reiniciar o seu computador para que as alterações tenham efeito.
 
 Depois de reiniciado, abra novamente o Windows Terminal e selecione a aba correspondente ao Linux.
+
+<br/>
 
 <div align="center">
     <img src="./img/terminalLinux.png" width="870" height="550"
