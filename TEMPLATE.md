@@ -25,11 +25,14 @@ Para instalar o **Windows Terminal**, execute o  PowerShell como administrador e
     <figcaption>Instalação do Windows Terminal.</figcaption>
 </figure>
 
+</div>
+
+<div align="center">
 
 <figure>
     <img src="./img/windowsTerminal2.png" width="870" height="550"
          alt="Windows Terminal">
-    <figcaption>Interface do Windows Terminal.</figcaption>
+    <!-- <figcaption>Interface do Windows Terminal.</figcaption> -->
 </figure>
 
 </div>
