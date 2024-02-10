@@ -61,6 +61,8 @@ A saída do comando será:
     <!-- <p>Saída do comando.</p> -->
 </div>
 
+<br/>
+<br/>
 
 Após instalação é necessário reiniciar o seu computador para que as alterações tenham efeito.
 
