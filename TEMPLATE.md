@@ -1,5 +1,9 @@
 # WIP - Configurando o ambiente linux, docker e VSCode no Windows
 
+## Motivação
+
+Auxiliar na configuração de um ambiente de desenvolvimento para as aplicações *Linux Native* utilizando *WSL, Docker, Windows Terminal, VSCode*.
+
 ## Instalador de Aplicativos (winget)
 
 O Instalador de Aplicativos da Microsoft é um utilitário que permite a instalação de pacotes do Windows através do terminal. A instalação está disponível na [Microsoft Store](https://www.microsoft.com/p/app-installer/9nblggh4nns1).
@@ -15,7 +19,18 @@ Para instalar o **Windows Terminal**, execute o  PowerShell como administrador e
 ```
 <div align="center">
 
-![teste](/img/windowsTerminal.png "TESTE")
+<figure>
+    <img src="./img/windowsTerminal.png" width="870" height="550"
+         alt="Install Terminal">
+    <figcaption>Instalação do Windows Terminal.</figcaption>
+</figure>
+
+
+<figure>
+    <img src="./img/windowsTerminal2.png" width="870" height="550"
+         alt="Windows Terminal">
+    <figcaption>Interface do Windows Terminal.</figcaption>
+</figure>
 
 </div>
 
@@ -31,6 +46,8 @@ Por padrão utilizaremos o sitema operacional Ubuntu:
 wsl --install --distribution Ubuntu
 ```
 
+Depois de instalado o sistema solicitará a configuração de um usuário e senha. Este usuário possui privilégios administrativos (sudo), e nos ajudará na manutenção do sistema operacional.
+
 Caso queira instalar ou verificar quais as distribuições estão disponíveis:
 
 ```
@@ -39,6 +56,27 @@ wsl --list --online
 
 A saída do comando será:
 
-*pic*
+<div align="center">
+
+<figure>
+    <img src="./img/wslList.png" width="870" height="550"
+         alt="WSL List">
+    <!-- <figcaption>Saída do comando.</figcaption> -->
+</figure>
+
+</div>
+
 
 Após instalação é necessário reiniciar o seu computador para que as alterações tenham efeito.
+
+Depois de reiniciado, abra novamente o Windows Terminal e selecione a aba correspondente ao Linux.
+
+<div align="center">
+
+<figure>
+    <img src="./img/terminalLinux.png" width="870" height="550"
+         alt="Shell Linux">
+    <figcaption>Shell Linux.</figcaption>
+</figure>
+
+</div>
