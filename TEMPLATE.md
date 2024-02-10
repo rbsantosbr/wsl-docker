@@ -56,13 +56,9 @@ wsl --list --online
 A saída do comando será:
 
 <div align="center">
-
-<figure>
     <img src="./img/wslList.png" width="870" height="550"
          alt="WSL List">
-    <!-- <figcaption>Saída do comando.</figcaption> -->
-</figure>
-
+    <!-- <p>Saída do comando.</p> -->
 </div>
 
 
@@ -71,13 +67,9 @@ Após instalação é necessário reiniciar o seu computador para que as altera�
 Depois de reiniciado, abra novamente o Windows Terminal e selecione a aba correspondente ao Linux.
 
 <div align="center">
-
-<figure>
     <img src="./img/terminalLinux.png" width="870" height="550"
          alt="Shell Linux">
-    <figcaption>Shell Linux.</figcaption>
-</figure>
-
+    <p>Shell Linux.</p>
 </div>
 
 <br/>
